@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eveneverlands
+- 👋 Hi, I’m Tanish Kushalkar
 - 👀 I’m interested in coding, linux from scratch, games and anime
 - 🌱 I’m currently learning ...it changes
 - 💞️ I’m looking to collaborate on project involving linux and other fun things
